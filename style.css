@@ -389,6 +389,10 @@ input[type="number"] {
   margin-left: 5px;
   font-size: 0.8rem;
 }
+.espaciador {
+  height: 200px;
+
+}
 @media (max-width: 768px) {
   /* Header */
   header {
