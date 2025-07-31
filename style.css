@@ -17,6 +17,7 @@ header {
   text-align: center;
   position: fixed;
   border-radius: 5%;
+  z-index: 999;
 }
 
 nav {
@@ -393,6 +394,7 @@ input[type="number"] {
   header {
     padding: 15px;
     text-align: center;
+    z-index: 999;
   }
 
   header h1 {
@@ -418,6 +420,7 @@ input[type="number"] {
     align-items: center;
     background: #490101;
     padding: 10px 0;
+    padding-top:100px
   }
 
   nav a {
